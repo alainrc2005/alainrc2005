@@ -9,5 +9,5 @@
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=alainrc2005&show_icons=true" alt="alainrc2005" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alainrc2005&layout=compact" alt="alainrc2005" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alainrc2005" alt="alainrc2005" /></p>
 
