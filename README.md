@@ -4,6 +4,7 @@
 <a href="https://twitter.com/alainrc2005" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alainrc2005" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/alainrc2005" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alainrc2005" height="30" width="30" /></a>
 <a href="https://fb.com/alainramirezcabrejas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="alainramirezcabrejas" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/8710592" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8710592" height="30" width="30" /></a>
 </p>
 
 ---
