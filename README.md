@@ -16,3 +16,12 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alainrc2005&theme=github_dark" alt="Alain's GitHub Stats"/>
 </div>
 
+<table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alainrc2005&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alainrc2005&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alainrc2005&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alainrc2005&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+    </tr>
+ </table>
+
